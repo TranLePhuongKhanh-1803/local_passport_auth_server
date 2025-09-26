@@ -16,3 +16,6 @@ Các tính năng:
 # Test postman: Post register
 URL : http://localhost:3000/auth/register
 ![Postman Test](./public/results/1_passport.png)
+# Test postman : post Login
+URL : http://localhost:3000/auth/login
+![Postman Test](./public/results/1_passport.png)
