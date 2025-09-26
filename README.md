@@ -15,3 +15,4 @@ Các tính năng:
 -node app.js
 # Test postman: Post register
 URL : http://localhost:3000/auth/register
+![Postman Test](./public/results/1_passport.png)
